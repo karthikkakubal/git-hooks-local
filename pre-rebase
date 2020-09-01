@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo Trying to rebase
+
+exit 1
